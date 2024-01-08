@@ -1,0 +1,14 @@
+
+Kcom.emsi.eat.services.CommandeServiceImpl#getAllCommandes()Ljava/util/List;i
+_/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/services/CommandeServiceImpl.java ()"1*Î
+1 (!ª
+§
+ (!2
+%0,com.emsi.eat.repositories.CommandeRepository"__id*a
+
+__unknown_file (E*C+
+)com.emsi.eat.services.CommandeServiceImpl"
+commandeRepository"
+ (,
+""B-+
+)com.emsi.eat.services.CommandeServiceImplH

@@ -1,0 +1,3 @@
+com.emsi.eat.controllers.CommandeController#getAllCommandes()Ljava/util/List;
+==
+getAllCommandes com.emsi.eat.services.CommandeService#getAllCommandes()Ljava/util/List;

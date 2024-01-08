@@ -1,0 +1,63 @@
+
+kcom.emsi.eat.controllers.CommandeController#getCommandeById(Ljava/lang/Long;)Lcom/emsi/eat/models/Commande;k
+a/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/controllers/CommandeController.java (#"startingBlock*›
+startingBlock# (:~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+$ (1
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+7 (9
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*¡
+1 (¢
+Ÿ
+ (+
+%0%com.emsi.eat.services.CommandeService"__id*`
+
+__unknown_file (D*B-
++com.emsi.eat.controllers.CommandeController"
+commandeServiceº·
+ (2"
+%1com.emsi.eat.models.Commande"ecom.emsi.eat.services.CommandeService#getCommandeById(Ljava/lang/Long;)Lcom/emsi/eat/models/Commande;*I
+
+__unknown_file (-
++
+%0%com.emsi.eat.services.CommandeService*2
+
+__unknown_file (
+
+idjava.lang.Long2!getCommandeById(Ljava/lang/Long;)"0
+ (3$
+"
+%1com.emsi.eat.models.Commande: 
+$ (9
+idjava.lang.LongB/-
++com.emsi.eat.controllers.CommandeControllerH

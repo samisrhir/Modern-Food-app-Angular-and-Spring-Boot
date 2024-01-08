@@ -1,0 +1,36 @@
+
+Ycom.emsi.eat.services.SnackServiceImpl#getSnackById(Ljava/lang/Long;)Ljava/util/Optional;f
+\/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/services/SnackServiceImpl.java& &('"startingBlock*þ
+startingBlock&' &(0‡
+„
+% %(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*2
+
+__unknown_file (
+
+idjava.lang.LongT
+R
+&- &(/
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Å
+1' '(¡
+ž
+' '(/
+%0)com.emsi.eat.repositories.SnackRepository"__id*[
+
+__unknown_file (?*=(
+&com.emsi.eat.services.SnackServiceImpl"
+snackRepository"
+' '(,
+"": 
+&( &(/
+idjava.lang.LongB*(
+&com.emsi.eat.services.SnackServiceImplH

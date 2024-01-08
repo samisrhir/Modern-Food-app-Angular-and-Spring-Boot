@@ -1,0 +1,7 @@
+organization=sonarqubesami
+projectKey=sonarqubesami_eatit-project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=sonarqubesami_eatit-project
+ceTaskId=AYy8D-Ze7mqWszH00ToP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYy8D-Ze7mqWszH00ToP

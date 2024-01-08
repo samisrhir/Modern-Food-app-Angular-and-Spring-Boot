@@ -1,0 +1,63 @@
+
+Wcom.emsi.eat.controllers.SnackController#getSnack(Ljava/lang/Long;)Ljava/util/Optional;h
+^/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/controllers/SnackController.java   (#"startingBlock*›
+startingBlock #  (@~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+ $  (7
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+ =  (?
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*î
+1! !(™
+–
+! !((
+%0"com.emsi.eat.services.SnackService"__id*Z
+
+__unknown_file (>*<*
+(com.emsi.eat.controllers.SnackController"
+snackServiceš—
+! !(,
+%1java.util.Optional"Ucom.emsi.eat.services.SnackService#getSnackById(Ljava/lang/Long;)Ljava/util/Optional;*F
+
+__unknown_file (*
+(
+%0"com.emsi.eat.services.SnackService*2
+
+__unknown_file (
+
+idjava.lang.Long2getSnackById(Ljava/lang/Long;)"&
+! !(-
+
+%1java.util.Optional: 
+ $  (?
+idjava.lang.LongB,*
+(com.emsi.eat.controllers.SnackControllerH

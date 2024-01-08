@@ -1,0 +1,62 @@
+
+lcom.emsi.eat.controllers.SnackController#createSnack(Lcom/emsi/eat/models/Snack;)Lcom/emsi/eat/models/Snack;h
+^/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/controllers/SnackController.java ("startingBlock*Ê
+startingBlock (6Ž
+‹
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*@
+
+__unknown_file ($
+"
+snackcom.emsi.eat.models.SnackŽ
+‹
+ ()
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*@
+
+__unknown_file ($
+"
+snackcom.emsi.eat.models.Snack‡
+„
+0 (5"
+snackcom.emsi.eat.models.Snack"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*—
+1 (™
+–
+ ((
+%0"com.emsi.eat.services.SnackService"__id*Z
+
+__unknown_file (>*<*
+(com.emsi.eat.controllers.SnackController"
+snackService¼¹
+ ('
+%1com.emsi.eat.models.Snack"_com.emsi.eat.services.SnackService#save(Lcom/emsi/eat/models/Snack;)Lcom/emsi/eat/models/Snack;*F
+
+__unknown_file (*
+(
+%0"com.emsi.eat.services.SnackService*@
+
+__unknown_file ($
+"
+snackcom.emsi.eat.models.Snack2!save(Lcom/emsi/eat/models/Snack;)"-
+ ((!
+
+%1com.emsi.eat.models.Snack:.
+ (5"
+snackcom.emsi.eat.models.SnackB,*
+(com.emsi.eat.controllers.SnackControllerH

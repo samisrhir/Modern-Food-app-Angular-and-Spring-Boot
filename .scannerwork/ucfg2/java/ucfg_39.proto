@@ -1,0 +1,21 @@
+
+Gcom.emsi.eat.controllers.SnackController#getAllSnacks()Ljava/util/List;h
+^/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/controllers/SnackController.java (#"1*Ž
+1 (™
+–
+ ((
+%0"com.emsi.eat.services.SnackService"__id*Z
+
+__unknown_file (>*<*
+(com.emsi.eat.controllers.SnackController"
+snackService¾»
+ (*
+%1java.util.List"Acom.emsi.eat.services.SnackService#getAllSnacks()Ljava/util/List;*F
+
+__unknown_file (*
+(
+%0"com.emsi.eat.services.SnackService2getAllSnacks()""
+ (+
+
+%1java.util.ListB,*
+(com.emsi.eat.controllers.SnackControllerH

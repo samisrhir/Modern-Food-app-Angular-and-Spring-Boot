@@ -1,0 +1,12 @@
+com.emsi.eat.controllers.SnackController#updateSnack(Ljava/lang/Long;Lcom/emsi/eat/models/Snack;)Lcom/emsi/eat/models/Snack;
+java.util.Optional#isPresent()Z
+java.util.Optional#get()Ljava/lang/Object;
+==
+getPicture com.emsi.eat.models.Snack#getPicture()Ljava/lang/String;
+save com.emsi.eat.services.SnackService#save(Lcom/emsi/eat/models/Snack;)Lcom/emsi/eat/models/Snack;
+getPrice com.emsi.eat.models.Snack#getPrice()F
+setDescription com.emsi.eat.models.Snack#setDescription(Ljava/lang/String;)V
+setPicture com.emsi.eat.models.Snack#setPicture(Ljava/lang/String;)V
+getDescription com.emsi.eat.models.Snack#getDescription()Ljava/lang/String;
+setPrice com.emsi.eat.models.Snack#setPrice(F)V
+getSnackById com.emsi.eat.services.SnackService#getSnackById(Ljava/lang/Long;)Ljava/util/Optional;

@@ -1,0 +1,36 @@
+
+ccom.emsi.eat.services.SnackServiceImpl#save(Lcom/emsi/eat/models/Snack;)Lcom/emsi/eat/models/Snack;f
+\/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/services/SnackServiceImpl.java ("startingBlock*š
+startingBlock ("•
+’
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*@
+
+__unknown_file ($
+"
+snackcom.emsi.eat.models.Snackb
+`
+ (!"
+snackcom.emsi.eat.models.Snack"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Å
+1 (¡
+ž
+ (/
+%0)com.emsi.eat.repositories.SnackRepository"__id*[
+
+__unknown_file (?*=(
+&com.emsi.eat.services.SnackServiceImpl"
+snackRepository"
+ (+
+"":.
+ (!"
+snackcom.emsi.eat.models.SnackB*(
+&com.emsi.eat.services.SnackServiceImplH

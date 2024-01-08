@@ -1,0 +1,3 @@
+com.emsi.eat.EatApplication#main([Ljava/lang/String;)V
+==
+print java.io.PrintStream#print(Ljava/lang/String;)V

@@ -1,0 +1,15 @@
+
+8com.emsi.eat.models.Snack#getPicture()Ljava/lang/String;Y
+O/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/models/Snack.java ("1*§
+1   (r
+p
+   (
+%0java.lang.String"__id*F
+
+__unknown_file (**(
+com.emsi.eat.models.Snack"	
+picture"$
+   (
+
+%0java.lang.StringB
+com.emsi.eat.models.SnackH

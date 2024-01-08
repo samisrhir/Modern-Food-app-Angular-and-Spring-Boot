@@ -1,0 +1,36 @@
+
+icom.emsi.eat.services.CommandeServiceImpl#getCommandeById(Ljava/lang/Long;)Lcom/emsi/eat/models/Commande;i
+_/C:/Users/vansa/git/repository/eat/src/main/java/com/emsi/eat/services/CommandeServiceImpl.java (#"startingBlock*þ
+startingBlock# (,‡
+„
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*2
+
+__unknown_file (
+
+idjava.lang.LongT
+R
+) (+
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Î
+1 (!ª
+§
+ (!2
+%0,com.emsi.eat.repositories.CommandeRepository"__id*a
+
+__unknown_file (E*C+
+)com.emsi.eat.services.CommandeServiceImpl"
+commandeRepository"
+ (<
+"": 
+$ (+
+idjava.lang.LongB-+
+)com.emsi.eat.services.CommandeServiceImplH
